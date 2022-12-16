@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmikaniz&count_bg=%233DC8AC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align=center>
   <h3>jina kim 🔁 mikaniz</h3>
-  <br>
   <table>
     <tr>
       <th>김진아</th>
