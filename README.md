@@ -32,6 +32,6 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaniz&count_private=true&theme=nord" height=150px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaniz&layout=compact&theme=nord" height=150px>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikaniz&count_private=true&theme=nord" height=150px>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikaniz&layout=compact&theme=nord" height=150px>
   
