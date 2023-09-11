@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmikaniz&count_bg=%233DC8AC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align=center>
+<div align="center">
   <h3>jina kim 🔁 mikaniz</h3>
   <table>
     <tr>
@@ -7,13 +7,13 @@
       <th>KIM JINA</th>
     </tr>
     <tr>
-      <th colspan=2><a href="mailto: k515jina@gmail.com">k515jina@gmail.com</a></th>
+      <th colspan="2"><a href="mailto: k515jina@gmail.com">k515jina@gmail.com</a></th>
     </tr>
   </table>
 </div>
 
 
-<div align=center>
+<div align="center">
   <br>
   <h3>🛠 Skills</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -32,6 +32,22 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <br>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikaniz&count_private=true&theme=nord" height=150px>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikaniz&layout=compact&theme=nord" height=150px>
-  
+</div>
+
+
+<div align="center">
+  <br>
+  <h3>Open Source Contributions</h3>
+  <table>
+    <tr><th colspan="2"><a href="https://github.com/julien-duponchelle/python-mysql-replication">python-mysql-replication</a></th></tr>
+    <tr><th>PR</th><th>Summary</th></tr>
+    <tr>
+      <td><a href="https://github.com/julien-duponchelle/python-mysql-replication/pull/414">#414</a></td>
+      <td>Developed RandEvent and add statement-based logging test</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/julien-duponchelle/python-mysql-replication/pull/466">#466</a></td>
+      <td>Developed UserVarEvent and Added Statement-Based Logging Test</td>
+    </tr>
+  </table>
+</div>
